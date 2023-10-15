@@ -1,0 +1,102 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13
+0,Runs,Mins,BF,4s,6s,SR,Pos,Dismissal,Inns,,Opposition,Ground,Start Date,
+1,9,60,27,1,0,33.33,3,bowled,1,,v Sri Lanka,Dharamsala,10 Dec 2017,ODI # 3939
+2,88,99,70,9,2,125.71,3,caught,1,,v Sri Lanka,Mohali,13 Dec 2017,ODI # 3941
+3,65,82,63,8,1,103.17,3,caught,2,,v Sri Lanka,Visakhapatnam,17 Dec 2017,ODI # 3942
+4,18,39,21,2,0,85.71,5,caught,1,,v South Africa,Johannesburg,10 Feb 2018,ODI # 3973
+5,30,57,37,2,0,81.08,5,caught,1,,v South Africa,Gqeberha,13 Feb 2018,ODI # 3976
+6,DNB,-,-,-,-,-,-,-,2,,v South Africa,Centurion,16 Feb 2018,ODI # 3978
+7,TDNB,-,-,-,-,-,-,-,-,,v West Indies,Providence,8 Aug 2019,ODI # 4196
+8,71,101,68,5,1,104.41,5,bowled,1,,v West Indies,Port of Spain,11 Aug 2019,ODI # 4197
+9,65,65,41,3,5,158.53,5,caught,2,,v West Indies,Port of Spain,14 Aug 2019,ODI # 4199
+10,70,-,88,5,1,79.54,4,caught,1,,v West Indies,Chennai,15 Dec 2019,ODI # 4221
+11,53,-,32,3,4,165.62,4,caught,1,,v West Indies,Visakhapatnam,18 Dec 2019,ODI # 4222
+12,7,-,7,1,0,100.00,4,caught,2,,v West Indies,Cuttack,22 Dec 2019,ODI # 4223
+13,4,-,9,0,0,44.44,5,caught,1,,v Australia,Wankhede,14 Jan 2020,ODI # 4231
+14,7,-,17,1,0,41.17,4,bowled,1,,v Australia,Rajkot,17 Jan 2020,ODI # 4232
+15,44*,-,35,6,1,125.71,4,not out,2,,v Australia,Bengaluru,19 Jan 2020,ODI # 4233
+16,103,161,107,11,1,96.26,4,caught,1,,v New Zealand,Hamilton,5 Feb 2020,ODI # 4235
+17,52,101,57,7,1,91.22,4,caught,2,,v New Zealand,Auckland,8 Feb 2020,ODI # 4239
+18,62,102,63,9,0,98.41,4,caught,1,,v New Zealand,Mount Maunganui,11 Feb 2020,ODI # 4243
+19,2,-,2,0,0,100.00,4,caught,2,,v Australia,Sydney,27 Nov 2020,ODI # 4265
+20,38,-,36,5,0,105.55,4,caught,2,,v Australia,Sydney,29 Nov 2020,ODI # 4266
+21,19,-,21,2,0,90.47,4,caught,1,,v Australia,Canberra,2 Dec 2020,ODI # 4267
+22,6,16,9,1,0,66.66,4,caught,1,,v England,Pune,23 Mar 2021,ODI # 4281
+23,17,25,17,1,0,100.00,5,caught,2,,v South Africa,Paarl,19 Jan 2022,ODI # 4344
+24,11,29,14,0,0,78.57,5,lbw,1,,v South Africa,Paarl,21 Jan 2022,ODI # 4346
+25,26,56,34,2,0,76.47,5,caught,2,,v South Africa,Cape Town,23 Jan 2022,ODI # 4349
+26,80,154,111,9,0,72.07,4,caught,1,,v West Indies,Ahmedabad,11 Feb 2022,ODI # 4356
+27,DNB,-,-,-,-,-,-,-,2,,v England,The Oval,12 Jul 2022,ODI # 4424
+28,54,76,57,5,2,94.73,3,caught,1,,v West Indies,Port of Spain,22 Jul 2022,ODI # 4436
+29,63,98,71,4,1,88.73,3,lbw,2,,v West Indies,Port of Spain,24 Jul 2022,ODI # 4438
+30,44,47,34,4,1,129.41,3,caught,1,,v West Indies,Port of Spain,27 Jul 2022,ODI # 4439
+31,50,53,37,8,0,135.13,5,caught,2,,v South Africa,Lucknow,6 Oct 2022,ODI # 4470
+32,113*,155,111,15,0,101.80,4,not out,2,,v South Africa,Ranchi,9 Oct 2022,ODI # 4471
+33,28*,40,23,3,2,121.73,4,not out,2,,v South Africa,Delhi,11 Oct 2022,ODI # 4472
+34,80,122,76,4,4,105.26,3,caught,1,,v New Zealand,Auckland,25 Nov 2022,ODI # 4483
+35,DNB,-,-,-,-,-,-,-,1,,v New Zealand,Hamilton,27 Nov 2022,ODI # 4487
+36,49,81,59,8,0,83.05,3,caught,1,,v New Zealand,Christchurch,30 Nov 2022,ODI # 4489
+37,24,47,39,2,0,61.53,4,caught,1,,v Bangladesh,Mirpur,4 Dec 2022,ODI # 4493
+38,82,140,102,6,3,80.39,3,caught,2,,v Bangladesh,Mirpur,7 Dec 2022,ODI # 4496
+39,3,12,6,0,0,50.00,4,caught,1,,v Bangladesh,Chattogram,10 Dec 2022,ODI # 4499
+40,28,24,24,3,1,116.66,4,caught,1,,v Sri Lanka,Guwahati,10 Jan 2023,ODI # 4501
+41,28,46,33,5,0,84.84,4,lbw,2,,v Sri Lanka,Eden Gardens,12 Jan 2023,ODI # 4503
+42,38,64,32,2,1,118.75,4,caught,1,,v Sri Lanka,Thiruvananthapuram,15 Jan 2023,ODI # 4505
+43,14,18,9,2,0,155.55,4,caught,1,,v Pakistan,Pallekele,2 Sep 2023,ODI # 4630
+44,DNB,-,-,-,-,-,-,-,2,,v Nepal,Pallekele,4 Sep 2023,ODI # 4632
+45,3,8,8,0,0,37.50,3,run out,2,,v Australia,Mohali,22 Sep 2023,ODI # 4651
+46,105,118,90,11,3,116.66,3,caught,1,,v Australia,Indore,24 Sep 2023,ODI # 4654
+47,48,74,43,1,2,111.62,4,bowled,2,,v Australia,Rajkot,27 Sep 2023,ODI # 4657
+48,0,2,3,0,0,0.00,4,caught,2,,v Australia,Chennai,8 Oct 2023,ODI # 4662
+49,25*,31,23,1,1,108.69,4,not out,2,,v Afghanistan,Delhi,11 Oct 2023,ODI # 4666
+0,Runs,Mins,BF,4s,6s,SR,Pos,Dismissal,Inns,,Opposition,Ground,Start Date,
+1,9,60,27,1,0,33.33,3,bowled,1,,v Sri Lanka,Dharamsala,10 Dec 2017,ODI # 3939
+2,88,99,70,9,2,125.71,3,caught,1,,v Sri Lanka,Mohali,13 Dec 2017,ODI # 3941
+3,65,82,63,8,1,103.17,3,caught,2,,v Sri Lanka,Visakhapatnam,17 Dec 2017,ODI # 3942
+4,70,-,88,5,1,79.54,4,caught,1,,v West Indies,Chennai,15 Dec 2019,ODI # 4221
+5,53,-,32,3,4,165.62,4,caught,1,,v West Indies,Visakhapatnam,18 Dec 2019,ODI # 4222
+6,7,-,7,1,0,100.00,4,caught,2,,v West Indies,Cuttack,22 Dec 2019,ODI # 4223
+7,4,-,9,0,0,44.44,5,caught,1,,v Australia,Wankhede,14 Jan 2020,ODI # 4231
+8,7,-,17,1,0,41.17,4,bowled,1,,v Australia,Rajkot,17 Jan 2020,ODI # 4232
+9,44*,-,35,6,1,125.71,4,not out,2,,v Australia,Bengaluru,19 Jan 2020,ODI # 4233
+10,6,16,9,1,0,66.66,4,caught,1,,v England,Pune,23 Mar 2021,ODI # 4281
+11,80,154,111,9,0,72.07,4,caught,1,,v West Indies,Ahmedabad,11 Feb 2022,ODI # 4356
+12,50,53,37,8,0,135.13,5,caught,2,,v South Africa,Lucknow,6 Oct 2022,ODI # 4470
+13,113*,155,111,15,0,101.80,4,not out,2,,v South Africa,Ranchi,9 Oct 2022,ODI # 4471
+14,28*,40,23,3,2,121.73,4,not out,2,,v South Africa,Delhi,11 Oct 2022,ODI # 4472
+15,28,24,24,3,1,116.66,4,caught,1,,v Sri Lanka,Guwahati,10 Jan 2023,ODI # 4501
+16,28,46,33,5,0,84.84,4,lbw,2,,v Sri Lanka,Eden Gardens,12 Jan 2023,ODI # 4503
+17,38,64,32,2,1,118.75,4,caught,1,,v Sri Lanka,Thiruvananthapuram,15 Jan 2023,ODI # 4505
+18,3,8,8,0,0,37.50,3,run out,2,,v Australia,Mohali,22 Sep 2023,ODI # 4651
+19,105,118,90,11,3,116.66,3,caught,1,,v Australia,Indore,24 Sep 2023,ODI # 4654
+20,48,74,43,1,2,111.62,4,bowled,2,,v Australia,Rajkot,27 Sep 2023,ODI # 4657
+21,0,2,3,0,0,0.00,4,caught,2,,v Australia,Chennai,8 Oct 2023,ODI # 4662
+22,25*,31,23,1,1,108.69,4,not out,2,,v Afghanistan,Delhi,11 Oct 2023,ODI # 4666
+0,Runs,Mins,BF,4s,6s,SR,Pos,Dismissal,Inns,,Opposition,Ground,Start Date,
+1,18,39,21,2,0,85.71,5,caught,1,,v South Africa,Johannesburg,10 Feb 2018,ODI # 3973
+2,30,57,37,2,0,81.08,5,caught,1,,v South Africa,Gqeberha,13 Feb 2018,ODI # 3976
+3,DNB,-,-,-,-,-,-,-,2,,v South Africa,Centurion,16 Feb 2018,ODI # 3978
+4,TDNB,-,-,-,-,-,-,-,-,,v West Indies,Providence,8 Aug 2019,ODI # 4196
+5,71,101,68,5,1,104.41,5,bowled,1,,v West Indies,Port of Spain,11 Aug 2019,ODI # 4197
+6,65,65,41,3,5,158.53,5,caught,2,,v West Indies,Port of Spain,14 Aug 2019,ODI # 4199
+7,103,161,107,11,1,96.26,4,caught,1,,v New Zealand,Hamilton,5 Feb 2020,ODI # 4235
+8,52,101,57,7,1,91.22,4,caught,2,,v New Zealand,Auckland,8 Feb 2020,ODI # 4239
+9,62,102,63,9,0,98.41,4,caught,1,,v New Zealand,Mount Maunganui,11 Feb 2020,ODI # 4243
+10,2,-,2,0,0,100.00,4,caught,2,,v Australia,Sydney,27 Nov 2020,ODI # 4265
+11,38,-,36,5,0,105.55,4,caught,2,,v Australia,Sydney,29 Nov 2020,ODI # 4266
+12,19,-,21,2,0,90.47,4,caught,1,,v Australia,Canberra,2 Dec 2020,ODI # 4267
+13,17,25,17,1,0,100.00,5,caught,2,,v South Africa,Paarl,19 Jan 2022,ODI # 4344
+14,11,29,14,0,0,78.57,5,lbw,1,,v South Africa,Paarl,21 Jan 2022,ODI # 4346
+15,26,56,34,2,0,76.47,5,caught,2,,v South Africa,Cape Town,23 Jan 2022,ODI # 4349
+16,DNB,-,-,-,-,-,-,-,2,,v England,The Oval,12 Jul 2022,ODI # 4424
+17,54,76,57,5,2,94.73,3,caught,1,,v West Indies,Port of Spain,22 Jul 2022,ODI # 4436
+18,63,98,71,4,1,88.73,3,lbw,2,,v West Indies,Port of Spain,24 Jul 2022,ODI # 4438
+19,44,47,34,4,1,129.41,3,caught,1,,v West Indies,Port of Spain,27 Jul 2022,ODI # 4439
+20,80,122,76,4,4,105.26,3,caught,1,,v New Zealand,Auckland,25 Nov 2022,ODI # 4483
+21,DNB,-,-,-,-,-,-,-,1,,v New Zealand,Hamilton,27 Nov 2022,ODI # 4487
+22,49,81,59,8,0,83.05,3,caught,1,,v New Zealand,Christchurch,30 Nov 2022,ODI # 4489
+23,24,47,39,2,0,61.53,4,caught,1,,v Bangladesh,Mirpur,4 Dec 2022,ODI # 4493
+24,82,140,102,6,3,80.39,3,caught,2,,v Bangladesh,Mirpur,7 Dec 2022,ODI # 4496
+25,3,12,6,0,0,50.00,4,caught,1,,v Bangladesh,Chattogram,10 Dec 2022,ODI # 4499
+26,14,18,9,2,0,155.55,4,caught,1,,v Pakistan,Pallekele,2 Sep 2023,ODI # 4630
+27,DNB,-,-,-,-,-,-,-,2,,v Nepal,Pallekele,4 Sep 2023,ODI # 4632

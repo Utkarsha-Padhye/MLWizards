@@ -1,0 +1,346 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13
+0,Runs,Mins,BF,4s,6s,SR,Pos,Dismissal,Inns,,Opposition,Ground,Start Date,
+1,0,3,2,0,0,0.00,5,caught,2,,v Pakistan,Dubai (DSC),21 Feb 2012,ODI # 3247
+2,14,12,9,1,1,155.55,7,caught,1,,v India,Mohali,23 Jan 2013,ODI # 3327
+3,DNB,-,-,-,-,-,-,-,2,,v India,Dharamsala,27 Jan 2013,ODI # 3329
+4,21,18,13,0,2,161.53,6,caught,1,,v New Zealand,Hamilton,17 Feb 2013,ODI # 3335
+5,DNB,-,-,-,-,-,-,-,2,,v New Zealand,Napier,20 Feb 2013,ODI # 3336
+6,3,5,4,0,0,75.00,6,caught,2,,v New Zealand,Auckland,23 Feb 2013,ODI # 3338
+7,14,41,25,1,0,56.00,6,caught,1,,v New Zealand,Lord's,31 May 2013,ODI # 3360
+8,2,5,3,0,0,66.66,6,caught,2,,v New Zealand,Southampton,2 Jun 2013,ODI # 3361
+9,47*,28,16,6,3,293.75,7,not out,1,,v New Zealand,Nottingham,5 Jun 2013,ODI # 3362
+10,1,1,2,0,0,50.00,7,bowled,1,,v Australia,Birmingham,8 Jun 2013,ODI # 3365
+11,0,4,2,0,0,0.00,6,caught,1,,v Sri Lanka,The Oval,13 Jun 2013,ODI # 3370
+12,14,17,9,2,0,155.55,6,caught,1,,v New Zealand,Cardiff,16 Jun 2013,ODI # 3373
+13,DNB,-,-,-,-,-,-,-,2,,v South Africa,The Oval,19 Jun 2013,ODI # 3375
+14,0,7,1,0,0,0.00,7,bowled,2,,v India,Birmingham,23 Jun 2013,ODI # 3377
+15,DNB,-,-,-,-,-,-,-,2,,v Ireland,Dublin (Malahide),3 Sep 2013,ODI # 3409
+16,75,85,65,5,3,115.38,7,caught,2,,v Australia,Manchester,8 Sep 2013,ODI # 3412
+17,DNB,-,-,-,-,-,-,-,1,,v Australia,Birmingham,11 Sep 2013,ODI # 3414
+18,65*,72,48,5,2,135.41,7,not out,2,,v Australia,Cardiff,14 Sep 2013,ODI # 3415
+19,42,53,37,4,0,113.51,7,bowled,2,,v Australia,Southampton,16 Sep 2013,ODI # 3416
+20,34*,31,24,1,1,141.66,8,not out,1,,v Australia,Melbourne,12 Jan 2014,ODI # 3454
+21,49,54,36,3,1,136.11,7,caught,1,,v Australia,Brisbane,17 Jan 2014,ODI # 3455
+22,4,17,8,0,0,50.00,7,bowled,1,,v Australia,Sydney,19 Jan 2014,ODI # 3457
+23,71,52,43,6,4,165.11,7,caught,1,,v Australia,Perth,24 Jan 2014,ODI # 3461
+24,5,17,9,0,0,55.55,7,caught,2,,v Australia,Adelaide,26 Jan 2014,ODI # 3463
+25,12,15,17,1,0,70.58,6,caught,2,,v West Indies,North Sound,28 Feb 2014,ODI # 3477
+26,0,1,1,0,0,0.00,6,caught,2,,v West Indies,North Sound,2 Mar 2014,ODI # 3480
+27,99,102,84,7,4,117.85,6,caught,1,,v West Indies,North Sound,5 Mar 2014,ODI # 3484
+28,9,11,5,1,0,180.00,4,caught,1,,v Scotland,Aberdeen,9 May 2014,ODI # 3491
+29,26*,38,20,1,1,130.00,7,not out,1,,v Sri Lanka,The Oval,22 May 2014,ODI # 3492
+30,4,10,6,1,0,66.66,7,caught,2,,v Sri Lanka,Chester-le-Street,25 May 2014,ODI # 3493
+31,DNB,-,-,-,-,-,-,-,2,,v Sri Lanka,Manchester,28 May 2014,ODI # 3494
+32,121,102,74,11,4,163.51,7,run out,2,,v Sri Lanka,Lord's,31 May 2014,ODI # 3495
+33,21,53,24,1,0,87.50,7,run out,1,,v Sri Lanka,Birmingham,3 Jun 2014,ODI # 3496
+34,2,4,9,0,0,22.22,6,caught,2,,v India,Cardiff,27 Aug 2014,ODI # 3517
+35,42,66,58,3,0,72.41,6,bowled,1,,v India,Nottingham,30 Aug 2014,ODI # 3520
+36,11,37,24,0,0,45.83,6,lbw,1,,v India,Birmingham,2 Sep 2014,ODI # 3523
+37,49,45,40,5,2,122.50,6,run out,1,,v India,Leeds,5 Sep 2014,ODI # 3525
+38,21,21,21,1,1,100.00,6,bowled,2,,v Sri Lanka,Colombo (RPS),26 Nov 2014,ODI # 3554
+39,7,19,14,0,0,50.00,7,bowled,1,,v Sri Lanka,Colombo (RPS),29 Nov 2014,ODI # 3557
+40,55*,46,37,9,0,148.64,7,not out,2,,v Sri Lanka,Hambantota,3 Dec 2014,ODI # 3561
+41,15,21,22,0,1,68.18,7,caught,1,,v Sri Lanka,Colombo (RPS),7 Dec 2014,ODI # 3563
+42,2*,1,1,0,0,200.00,7,not out,2,,v Sri Lanka,Pallekele,10 Dec 2014,ODI # 3565
+43,22,31,26,2,0,84.61,7,run out,2,,v Sri Lanka,Pallekele,13 Dec 2014,ODI # 3567
+44,23,30,23,2,0,100.00,7,caught,2,,v Sri Lanka,Colombo (RPS),16 Dec 2014,ODI # 3569
+45,28,68,60,0,0,46.66,7,caught,1,,v Australia,Sydney,16 Jan 2015,ODI # 3578
+46,DNB,-,-,-,-,-,-,-,2,,v India,Brisbane,20 Jan 2015,ODI # 3586
+47,25,38,24,2,0,104.16,6,run out,1,,v Australia,Hobart,23 Jan 2015,ODI # 3589
+48,67,98,78,7,0,85.89,7,caught,2,,v India,Perth,30 Jan 2015,ODI # 3595
+49,17,20,22,3,0,77.27,7,caught,2,,v Australia,Perth,1 Feb 2015,ODI # 3597
+50,10,11,12,1,0,83.33,7,caught,2,,v Australia,Melbourne,14 Feb 2015,ODI # 3600
+51,3,8,7,0,0,42.85,7,caught,1,,v New Zealand,Wellington,20 Feb 2015,ODI # 3607
+52,24,19,14,4,0,171.42,7,caught,1,,v Scotland,Christchurch,23 Feb 2015,ODI # 3611
+53,39*,28,19,6,1,205.26,7,not out,1,,v Sri Lanka,Wellington,1 Mar 2015,ODI # 3619
+54,65,75,52,6,1,125.00,7,caught,2,,v Bangladesh,Adelaide,9 Mar 2015,ODI # 3630
+55,DNB,-,-,-,-,-,-,-,2,,v Afghanistan,Sydney,13 Mar 2015,ODI # 3635
+56,129,105,77,13,5,167.53,6,caught,1,,v New Zealand,Birmingham,9 Jun 2015,ODI # 3654
+57,41,42,38,4,1,107.89,6,caught,2,,v New Zealand,The Oval,12 Jun 2015,ODI # 3655
+58,13,16,10,2,0,130.00,6,caught,1,,v New Zealand,Southampton,14 Jun 2015,ODI # 3656
+59,DNB,-,-,-,-,-,-,-,2,,v New Zealand,Nottingham,17 Jun 2015,ODI # 3657
+60,4,21,10,0,0,40.00,6,caught,2,,v Australia,Southampton,3 Sep 2015,ODI # 3680
+61,0,5,3,0,0,0.00,6,lbw,2,,v Australia,Lord's,5 Sep 2015,ODI # 3681
+62,1,4,2,0,0,50.00,6,run out,1,,v Pakistan,Abu Dhabi,11 Nov 2015,ODI # 3707
+63,11,10,10,1,0,110.00,5,bowled,1,,v Pakistan,Abu Dhabi,13 Nov 2015,ODI # 3708
+64,49*,78,50,2,1,98.00,6,not out,2,,v Pakistan,Sharjah,17 Nov 2015,ODI # 3710
+65,116*,68,52,10,8,223.07,4,not out,1,,v Pakistan,Dubai (DSC),20 Nov 2015,ODI # 3712
+66,105,109,76,11,5,138.15,4,caught,1,,v South Africa,Bloemfontein,3 Feb 2016,ODI # 3732
+67,48*,42,28,4,3,171.42,6,not out,2,,v South Africa,Gqeberha,6 Feb 2016,ODI # 3734
+68,0,3,1,0,0,0.00,4,caught,1,,v South Africa,Centurion,9 Feb 2016,ODI # 3736
+69,1,-,6,0,0,16.66,6,caught,1,,v South Africa,Johannesburg,12 Feb 2016,ODI # 3737
+70,0,3,1,0,0,0.00,6,bowled,1,,v South Africa,Cape Town,14 Feb 2016,ODI # 3738
+71,93,145,99,6,1,93.93,6,caught,2,,v Sri Lanka,Nottingham,21 Jun 2016,ODI # 3751
+72,DNB,-,-,-,-,-,-,-,2,,v Sri Lanka,Birmingham,24 Jun 2016,ODI # 3753
+73,DNB,-,-,-,-,-,-,-,2,,v Sri Lanka,Bristol,26 Jun 2016,ODI # 3755
+74,17*,13,8,2,0,212.50,6,not out,2,,v Sri Lanka,The Oval,29 Jun 2016,ODI # 3757
+75,70,65,45,7,1,155.55,6,bowled,1,,v Sri Lanka,Cardiff,2 Jul 2016,ODI # 3758
+76,DNB,-,-,-,-,-,-,-,2,,v Pakistan,Southampton,24 Aug 2016,ODI # 3770
+77,4,11,5,0,0,80.00,6,run out,2,,v Pakistan,Lord's,27 Aug 2016,ODI # 3771
+78,90*,65,51,7,7,176.47,4,not out,1,,v Pakistan,Nottingham,30 Aug 2016,ODI # 3773
+79,63,48,38,3,4,165.78,6,caught,1,,v Bangladesh,Mirpur,7 Oct 2016,ODI # 3791
+80,57,84,57,7,0,100.00,6,lbw,2,,v Bangladesh,Mirpur,9 Oct 2016,ODI # 3793
+81,25,34,26,3,0,96.15,6,bowled,2,,v Bangladesh,Chattogram,12 Oct 2016,ODI # 3794
+82,31,40,36,1,2,86.11,5,caught,1,,v India,Pune,15 Jan 2017,ODI # 3819
+83,10,16,9,1,0,111.11,6,stumped,2,,v India,Cuttack,19 Jan 2017,ODI # 3821
+84,11,19,15,1,0,73.33,5,caught,1,,v India,Eden Gardens,22 Jan 2017,ODI # 3824
+85,14,15,19,0,0,73.68,5,caught,1,,v West Indies,North Sound,3 Mar 2017,ODI # 3845
+86,0,7,7,0,0,0.00,6,caught,2,,v West Indies,North Sound,5 Mar 2017,ODI # 3848
+87,7,-,5,0,1,140.00,4,bowled,1,,v West Indies,Bridgetown,9 Mar 2017,ODI # 3849
+88,7,8,7,1,0,100.00,6,caught,1,,v South Africa,Leeds,24 May 2017,ODI # 3872
+89,65*,81,53,7,0,122.64,6,not out,1,,v South Africa,Southampton,27 May 2017,ODI # 3873
+90,4,4,4,1,0,100.00,6,caught,1,,v South Africa,Lord's,29 May 2017,ODI # 3874
+91,DNB,-,-,-,-,-,-,-,2,,v Bangladesh,The Oval,1 Jun 2017,ODI # 3875
+92,61*,76,48,2,2,127.08,6,not out,1,,v New Zealand,Cardiff,6 Jun 2017,ODI # 3880
+93,29*,35,32,3,1,90.62,6,not out,2,,v Australia,Birmingham,10 Jun 2017,ODI # 3885
+94,4,16,7,0,0,57.14,6,caught,1,,v Pakistan,Cardiff,14 Jun 2017,ODI # 3889
+95,DNB,-,-,-,-,-,-,-,2,,v West Indies,Manchester,19 Sep 2017,ODI # 3911
+96,DNB,-,-,-,-,-,-,-,1,,v West Indies,Nottingham,21 Sep 2017,ODI # 3913
+97,2,5,4,0,0,50.00,6,bowled,1,,v West Indies,Bristol,24 Sep 2017,ODI # 3915
+98,43*,-,35,5,0,122.85,5,not out,2,,v West Indies,The Oval,27 Sep 2017,ODI # 3916
+99,DNB,-,-,-,-,-,-,-,2,,v West Indies,Southampton,29 Sep 2017,ODI # 3918
+100,4,15,10,0,0,40.00,6,caught,2,,v Australia,Melbourne,14 Jan 2018,ODI # 3951
+101,42,-,32,5,0,131.25,6,caught,2,,v Australia,Brisbane,19 Jan 2018,ODI # 3958
+102,100*,-,83,6,4,120.48,6,not out,1,,v Australia,Sydney,21 Jan 2018,ODI # 3960
+103,0,-,2,0,0,0.00,6,caught,1,,v Australia,Adelaide,26 Jan 2018,ODI # 3966
+104,21,-,25,1,1,84.00,6,caught,1,,v Australia,Perth,28 Jan 2018,ODI # 3968
+105,79,92,65,5,5,121.53,6,run out,1,,v New Zealand,Hamilton,25 Feb 2018,ODI # 3980
+106,36*,30,20,2,3,180.00,6,not out,2,,v New Zealand,Mount Maunganui,28 Feb 2018,ODI # 3981
+107,29,31,23,3,1,126.08,6,caught,1,,v New Zealand,Wellington,3 Mar 2018,ODI # 3982
+108,0,4,2,0,0,0.00,4,caught,1,,v New Zealand,Dunedin,7 Mar 2018,ODI # 3989
+109,DNB,-,-,-,-,-,-,-,2,,v New Zealand,Christchurch,10 Mar 2018,ODI # 3992
+110,9,9,11,2,0,81.81,6,caught,2,,v Australia,The Oval,13 Jun 2018,ODI # 4009
+111,91*,102,70,8,2,130.00,5,not out,1,,v Australia,Cardiff,16 Jun 2018,ODI # 4010
+112,11,-,12,0,1,91.66,4,caught,1,,v Australia,Nottingham,19 Jun 2018,ODI # 4011
+113,54*,-,29,9,1,186.20,6,not out,2,,v Australia,Chester-le-Street,21 Jun 2018,ODI # 4012
+114,110*,-,122,12,1,90.16,6,not out,2,,v Australia,Manchester,24 Jun 2018,ODI # 4013
+115,53,-,51,5,0,103.92,6,caught,1,,v India,Nottingham,12 Jul 2018,ODI # 4014
+116,4,-,7,0,0,57.14,6,caught,1,,v India,Lord's,14 Jul 2018,ODI # 4016
+117,DNB,-,-,-,-,-,-,-,2,,v India,Leeds,17 Jul 2018,ODI # 4018
+118,DNB,-,-,-,-,-,-,-,1,,v Sri Lanka,Dambulla,10 Oct 2018,ODI # 4052
+119,28,42,25,2,0,112.00,6,bowled,1,,v Sri Lanka,Dambulla,13 Oct 2018,ODI # 4053
+120,DNB,-,-,-,-,-,-,-,2,,v Sri Lanka,Pallekele,17 Oct 2018,ODI # 4054
+121,DNB,-,-,-,-,-,-,-,2,,v Sri Lanka,Pallekele,20 Oct 2018,ODI # 4055
+122,0,-,2,0,0,0.00,4,caught,2,,v Sri Lanka,Colombo (RPS),23 Oct 2018,ODI # 4058
+123,4*,1,1,1,0,400.00,6,not out,2,,v West Indies,Bridgetown,20 Feb 2019,ODI # 4096
+124,34,59,33,2,2,103.03,6,caught,2,,v West Indies,Bridgetown,22 Feb 2019,ODI # 4097
+125,TDNB,-,-,-,-,-,-,-,-,,v West Indies,St George's,25 Feb 2019,ODI # 4098
+126,150,-,77,13,12,194.80,5,bowled,1,,v West Indies,St George's,27 Feb 2019,ODI # 4099
+127,23,-,36,1,0,63.88,6,caught,1,,v West Indies,Gros Islet,2 Mar 2019,ODI # 4103
+128,TDNB,-,-,-,-,-,-,-,-,,v Pakistan,The Oval,8 May 2019,ODI # 4130
+129,110*,66,55,6,9,200.00,5,not out,1,,v Pakistan,Southampton,11 May 2019,ODI # 4133
+130,0,4,2,0,0,0.00,5,caught,2,,v Pakistan,Nottingham,17 May 2019,ODI # 4138
+131,34,40,34,4,1,100.00,5,caught,1,,v Pakistan,Leeds,19 May 2019,ODI # 4140
+132,18,21,16,0,0,112.50,6,bowled,1,,v South Africa,The Oval,30 May 2019,ODI # 4143
+133,103,103,76,9,2,135.52,6,caught,2,,v Pakistan,Nottingham,3 Jun 2019,ODI # 4148
+134,64,66,44,2,4,145.45,4,caught,1,,v Bangladesh,Cardiff,8 Jun 2019,ODI # 4153
+135,DNB,-,-,-,-,-,-,-,2,,v West Indies,Southampton,14 Jun 2019,ODI # 4158
+136,2,8,2,0,0,100.00,5,caught,1,,v Afghanistan,Manchester,18 Jun 2019,ODI # 4163
+137,10,16,9,1,0,111.11,6,lbw,2,,v Sri Lanka,Leeds,21 Jun 2019,ODI # 4168
+138,25,60,27,2,0,92.59,6,caught,2,,v Australia,Lord's,25 Jun 2019,ODI # 4173
+139,20,17,8,1,2,250.00,6,caught,1,,v India,Birmingham,30 Jun 2019,ODI # 4179
+140,11,25,12,1,0,91.66,4,caught,1,,v New Zealand,Chester-le-Street,3 Jul 2019,ODI # 4183
+141,DNB,-,-,-,-,-,-,-,2,,v Australia,Birmingham,11 Jul 2019,ODI # 4191
+142,59,94,60,6,0,98.33,6,caught,2,,v New Zealand,Lord's,14 Jul 2019,ODI # 4192
+143,1,8,4,0,0,25.00,5,caught,2,,v Australia,Manchester,11 Sep 2020,ODI # 4259
+144,3,14,7,0,0,42.85,5,lbw,1,,v Australia,Manchester,13 Sep 2020,ODI # 4260
+145,8,32,20,0,0,40.00,5,caught,1,,v Australia,Manchester,16 Sep 2020,ODI # 4261
+146,2,14,4,0,0,50.00,5,lbw,2,,v India,Pune,23 Mar 2021,ODI # 4281
+147,0,5,3,0,0,0.00,5,bowled,2,,v India,Pune,26 Mar 2021,ODI # 4283
+148,15,28,18,2,0,83.33,5,lbw,2,,v India,Pune,28 Mar 2021,ODI # 4284
+149,162*,107,70,7,14,231.42,4,not out,1,,v Netherlands,Amstelveen,17 Jun 2022,ODI # 4413
+150,DNB,-,-,-,-,-,-,-,2,,v Netherlands,Amstelveen,19 Jun 2022,ODI # 4414
+151,86*,84,64,7,5,134.37,4,not out,2,,v Netherlands,Amstelveen,22 Jun 2022,ODI # 4417
+152,30,62,32,6,0,93.75,5,caught,1,,v India,The Oval,12 Jul 2022,ODI # 4424
+153,4,7,5,0,0,80.00,5,bowled,1,,v India,Lord's,14 Jul 2022,ODI # 4428
+154,60,129,80,3,2,75.00,5,caught,1,,v India,Manchester,17 Jul 2022,ODI # 4433
+155,12,14,12,1,0,100.00,5,caught,2,,v South Africa,Chester-le-Street,19 Jul 2022,ODI # 4434
+156,19,36,27,1,0,70.37,6,caught,1,,v South Africa,Manchester,22 Jul 2022,ODI # 4435
+157,TDNB,-,-,-,-,-,-,-,-,,v South Africa,Leeds,24 Jul 2022,ODI # 4437
+158,29,47,34,2,0,85.29,6,caught,1,,v Australia,Adelaide,17 Nov 2022,ODI # 4475
+159,1,4,4,0,0,25.00,6,caught,2,,v Australia,Melbourne,22 Nov 2022,ODI # 4480
+160,36,78,42,4,0,85.71,5,caught,2,,v South Africa,Bloemfontein,27 Jan 2023,ODI # 4512
+161,94*,154,81,8,3,116.04,5,not out,1,,v South Africa,Bloemfontein,29 Jan 2023,ODI # 4513
+162,131,190,127,6,7,103.14,5,caught,1,,v South Africa,Kimberley,1 Feb 2023,ODI # 4514
+163,9,14,10,1,0,90.00,5,caught,2,,v Bangladesh,Mirpur,1 Mar 2023,ODI # 4525
+164,76,103,64,5,2,118.75,5,caught,1,,v Bangladesh,Mirpur,3 Mar 2023,ODI # 4528
+165,26,51,24,0,0,108.33,6,lbw,2,,v Bangladesh,Chattogram,6 Mar 2023,ODI # 4531
+166,72,112,68,5,2,105.88,5,caught,1,,v New Zealand,Cardiff,8 Sep 2023,ODI # 4636
+167,30,35,25,4,0,120.00,5,bowled,1,,v New Zealand,Southampton,10 Sep 2023,ODI # 4640
+168,38,32,24,6,1,158.33,5,caught,1,,v New Zealand,The Oval,13 Sep 2023,ODI # 4643
+169,36,36,31,3,1,116.12,5,caught,1,,v New Zealand,Lord's,15 Sep 2023,ODI # 4647
+170,43,48,42,2,2,102.38,6,caught,1,,v New Zealand,Ahmedabad,5 Oct 2023,ODI # 4658
+171,20,11,10,1,1,200.00,4,bowled,1,,v Bangladesh,Dharamsala,10 Oct 2023,ODI # 4664
+0,Runs,Mins,BF,4s,6s,SR,Pos,Dismissal,Inns,,Opposition,Ground,Start Date,
+1,14,41,25,1,0,56.00,6,caught,1,,v New Zealand,Lord's,31 May 2013,ODI # 3360
+2,2,5,3,0,0,66.66,6,caught,2,,v New Zealand,Southampton,2 Jun 2013,ODI # 3361
+3,47*,28,16,6,3,293.75,7,not out,1,,v New Zealand,Nottingham,5 Jun 2013,ODI # 3362
+4,1,1,2,0,0,50.00,7,bowled,1,,v Australia,Birmingham,8 Jun 2013,ODI # 3365
+5,0,4,2,0,0,0.00,6,caught,1,,v Sri Lanka,The Oval,13 Jun 2013,ODI # 3370
+6,14,17,9,2,0,155.55,6,caught,1,,v New Zealand,Cardiff,16 Jun 2013,ODI # 3373
+7,DNB,-,-,-,-,-,-,-,2,,v South Africa,The Oval,19 Jun 2013,ODI # 3375
+8,0,7,1,0,0,0.00,7,bowled,2,,v India,Birmingham,23 Jun 2013,ODI # 3377
+9,75,85,65,5,3,115.38,7,caught,2,,v Australia,Manchester,8 Sep 2013,ODI # 3412
+10,DNB,-,-,-,-,-,-,-,1,,v Australia,Birmingham,11 Sep 2013,ODI # 3414
+11,65*,72,48,5,2,135.41,7,not out,2,,v Australia,Cardiff,14 Sep 2013,ODI # 3415
+12,42,53,37,4,0,113.51,7,bowled,2,,v Australia,Southampton,16 Sep 2013,ODI # 3416
+13,26*,38,20,1,1,130.00,7,not out,1,,v Sri Lanka,The Oval,22 May 2014,ODI # 3492
+14,4,10,6,1,0,66.66,7,caught,2,,v Sri Lanka,Chester-le-Street,25 May 2014,ODI # 3493
+15,DNB,-,-,-,-,-,-,-,2,,v Sri Lanka,Manchester,28 May 2014,ODI # 3494
+16,121,102,74,11,4,163.51,7,run out,2,,v Sri Lanka,Lord's,31 May 2014,ODI # 3495
+17,21,53,24,1,0,87.50,7,run out,1,,v Sri Lanka,Birmingham,3 Jun 2014,ODI # 3496
+18,2,4,9,0,0,22.22,6,caught,2,,v India,Cardiff,27 Aug 2014,ODI # 3517
+19,42,66,58,3,0,72.41,6,bowled,1,,v India,Nottingham,30 Aug 2014,ODI # 3520
+20,11,37,24,0,0,45.83,6,lbw,1,,v India,Birmingham,2 Sep 2014,ODI # 3523
+21,49,45,40,5,2,122.50,6,run out,1,,v India,Leeds,5 Sep 2014,ODI # 3525
+22,129,105,77,13,5,167.53,6,caught,1,,v New Zealand,Birmingham,9 Jun 2015,ODI # 3654
+23,41,42,38,4,1,107.89,6,caught,2,,v New Zealand,The Oval,12 Jun 2015,ODI # 3655
+24,13,16,10,2,0,130.00,6,caught,1,,v New Zealand,Southampton,14 Jun 2015,ODI # 3656
+25,DNB,-,-,-,-,-,-,-,2,,v New Zealand,Nottingham,17 Jun 2015,ODI # 3657
+26,4,21,10,0,0,40.00,6,caught,2,,v Australia,Southampton,3 Sep 2015,ODI # 3680
+27,0,5,3,0,0,0.00,6,lbw,2,,v Australia,Lord's,5 Sep 2015,ODI # 3681
+28,93,145,99,6,1,93.93,6,caught,2,,v Sri Lanka,Nottingham,21 Jun 2016,ODI # 3751
+29,DNB,-,-,-,-,-,-,-,2,,v Sri Lanka,Birmingham,24 Jun 2016,ODI # 3753
+30,DNB,-,-,-,-,-,-,-,2,,v Sri Lanka,Bristol,26 Jun 2016,ODI # 3755
+31,17*,13,8,2,0,212.50,6,not out,2,,v Sri Lanka,The Oval,29 Jun 2016,ODI # 3757
+32,70,65,45,7,1,155.55,6,bowled,1,,v Sri Lanka,Cardiff,2 Jul 2016,ODI # 3758
+33,DNB,-,-,-,-,-,-,-,2,,v Pakistan,Southampton,24 Aug 2016,ODI # 3770
+34,4,11,5,0,0,80.00,6,run out,2,,v Pakistan,Lord's,27 Aug 2016,ODI # 3771
+35,90*,65,51,7,7,176.47,4,not out,1,,v Pakistan,Nottingham,30 Aug 2016,ODI # 3773
+36,7,8,7,1,0,100.00,6,caught,1,,v South Africa,Leeds,24 May 2017,ODI # 3872
+37,65*,81,53,7,0,122.64,6,not out,1,,v South Africa,Southampton,27 May 2017,ODI # 3873
+38,4,4,4,1,0,100.00,6,caught,1,,v South Africa,Lord's,29 May 2017,ODI # 3874
+39,DNB,-,-,-,-,-,-,-,2,,v Bangladesh,The Oval,1 Jun 2017,ODI # 3875
+40,61*,76,48,2,2,127.08,6,not out,1,,v New Zealand,Cardiff,6 Jun 2017,ODI # 3880
+41,29*,35,32,3,1,90.62,6,not out,2,,v Australia,Birmingham,10 Jun 2017,ODI # 3885
+42,4,16,7,0,0,57.14,6,caught,1,,v Pakistan,Cardiff,14 Jun 2017,ODI # 3889
+43,DNB,-,-,-,-,-,-,-,2,,v West Indies,Manchester,19 Sep 2017,ODI # 3911
+44,DNB,-,-,-,-,-,-,-,1,,v West Indies,Nottingham,21 Sep 2017,ODI # 3913
+45,2,5,4,0,0,50.00,6,bowled,1,,v West Indies,Bristol,24 Sep 2017,ODI # 3915
+46,43*,-,35,5,0,122.85,5,not out,2,,v West Indies,The Oval,27 Sep 2017,ODI # 3916
+47,DNB,-,-,-,-,-,-,-,2,,v West Indies,Southampton,29 Sep 2017,ODI # 3918
+48,9,9,11,2,0,81.81,6,caught,2,,v Australia,The Oval,13 Jun 2018,ODI # 4009
+49,91*,102,70,8,2,130.00,5,not out,1,,v Australia,Cardiff,16 Jun 2018,ODI # 4010
+50,11,-,12,0,1,91.66,4,caught,1,,v Australia,Nottingham,19 Jun 2018,ODI # 4011
+51,54*,-,29,9,1,186.20,6,not out,2,,v Australia,Chester-le-Street,21 Jun 2018,ODI # 4012
+52,110*,-,122,12,1,90.16,6,not out,2,,v Australia,Manchester,24 Jun 2018,ODI # 4013
+53,53,-,51,5,0,103.92,6,caught,1,,v India,Nottingham,12 Jul 2018,ODI # 4014
+54,4,-,7,0,0,57.14,6,caught,1,,v India,Lord's,14 Jul 2018,ODI # 4016
+55,DNB,-,-,-,-,-,-,-,2,,v India,Leeds,17 Jul 2018,ODI # 4018
+56,TDNB,-,-,-,-,-,-,-,-,,v Pakistan,The Oval,8 May 2019,ODI # 4130
+57,110*,66,55,6,9,200.00,5,not out,1,,v Pakistan,Southampton,11 May 2019,ODI # 4133
+58,0,4,2,0,0,0.00,5,caught,2,,v Pakistan,Nottingham,17 May 2019,ODI # 4138
+59,34,40,34,4,1,100.00,5,caught,1,,v Pakistan,Leeds,19 May 2019,ODI # 4140
+60,18,21,16,0,0,112.50,6,bowled,1,,v South Africa,The Oval,30 May 2019,ODI # 4143
+61,103,103,76,9,2,135.52,6,caught,2,,v Pakistan,Nottingham,3 Jun 2019,ODI # 4148
+62,64,66,44,2,4,145.45,4,caught,1,,v Bangladesh,Cardiff,8 Jun 2019,ODI # 4153
+63,DNB,-,-,-,-,-,-,-,2,,v West Indies,Southampton,14 Jun 2019,ODI # 4158
+64,2,8,2,0,0,100.00,5,caught,1,,v Afghanistan,Manchester,18 Jun 2019,ODI # 4163
+65,10,16,9,1,0,111.11,6,lbw,2,,v Sri Lanka,Leeds,21 Jun 2019,ODI # 4168
+66,25,60,27,2,0,92.59,6,caught,2,,v Australia,Lord's,25 Jun 2019,ODI # 4173
+67,20,17,8,1,2,250.00,6,caught,1,,v India,Birmingham,30 Jun 2019,ODI # 4179
+68,11,25,12,1,0,91.66,4,caught,1,,v New Zealand,Chester-le-Street,3 Jul 2019,ODI # 4183
+69,DNB,-,-,-,-,-,-,-,2,,v Australia,Birmingham,11 Jul 2019,ODI # 4191
+70,59,94,60,6,0,98.33,6,caught,2,,v New Zealand,Lord's,14 Jul 2019,ODI # 4192
+71,1,8,4,0,0,25.00,5,caught,2,,v Australia,Manchester,11 Sep 2020,ODI # 4259
+72,3,14,7,0,0,42.85,5,lbw,1,,v Australia,Manchester,13 Sep 2020,ODI # 4260
+73,8,32,20,0,0,40.00,5,caught,1,,v Australia,Manchester,16 Sep 2020,ODI # 4261
+74,30,62,32,6,0,93.75,5,caught,1,,v India,The Oval,12 Jul 2022,ODI # 4424
+75,4,7,5,0,0,80.00,5,bowled,1,,v India,Lord's,14 Jul 2022,ODI # 4428
+76,60,129,80,3,2,75.00,5,caught,1,,v India,Manchester,17 Jul 2022,ODI # 4433
+77,12,14,12,1,0,100.00,5,caught,2,,v South Africa,Chester-le-Street,19 Jul 2022,ODI # 4434
+78,19,36,27,1,0,70.37,6,caught,1,,v South Africa,Manchester,22 Jul 2022,ODI # 4435
+79,TDNB,-,-,-,-,-,-,-,-,,v South Africa,Leeds,24 Jul 2022,ODI # 4437
+80,72,112,68,5,2,105.88,5,caught,1,,v New Zealand,Cardiff,8 Sep 2023,ODI # 4636
+81,30,35,25,4,0,120.00,5,bowled,1,,v New Zealand,Southampton,10 Sep 2023,ODI # 4640
+82,38,32,24,6,1,158.33,5,caught,1,,v New Zealand,The Oval,13 Sep 2023,ODI # 4643
+83,36,36,31,3,1,116.12,5,caught,1,,v New Zealand,Lord's,15 Sep 2023,ODI # 4647
+0,Runs,Mins,BF,4s,6s,SR,Pos,Dismissal,Inns,,Opposition,Ground,Start Date,
+1,0,3,2,0,0,0.00,5,caught,2,,v Pakistan,Dubai (DSC),21 Feb 2012,ODI # 3247
+2,14,12,9,1,1,155.55,7,caught,1,,v India,Mohali,23 Jan 2013,ODI # 3327
+3,DNB,-,-,-,-,-,-,-,2,,v India,Dharamsala,27 Jan 2013,ODI # 3329
+4,21,18,13,0,2,161.53,6,caught,1,,v New Zealand,Hamilton,17 Feb 2013,ODI # 3335
+5,DNB,-,-,-,-,-,-,-,2,,v New Zealand,Napier,20 Feb 2013,ODI # 3336
+6,3,5,4,0,0,75.00,6,caught,2,,v New Zealand,Auckland,23 Feb 2013,ODI # 3338
+7,DNB,-,-,-,-,-,-,-,2,,v Ireland,Dublin (Malahide),3 Sep 2013,ODI # 3409
+8,34*,31,24,1,1,141.66,8,not out,1,,v Australia,Melbourne,12 Jan 2014,ODI # 3454
+9,49,54,36,3,1,136.11,7,caught,1,,v Australia,Brisbane,17 Jan 2014,ODI # 3455
+10,4,17,8,0,0,50.00,7,bowled,1,,v Australia,Sydney,19 Jan 2014,ODI # 3457
+11,71,52,43,6,4,165.11,7,caught,1,,v Australia,Perth,24 Jan 2014,ODI # 3461
+12,5,17,9,0,0,55.55,7,caught,2,,v Australia,Adelaide,26 Jan 2014,ODI # 3463
+13,12,15,17,1,0,70.58,6,caught,2,,v West Indies,North Sound,28 Feb 2014,ODI # 3477
+14,0,1,1,0,0,0.00,6,caught,2,,v West Indies,North Sound,2 Mar 2014,ODI # 3480
+15,99,102,84,7,4,117.85,6,caught,1,,v West Indies,North Sound,5 Mar 2014,ODI # 3484
+16,9,11,5,1,0,180.00,4,caught,1,,v Scotland,Aberdeen,9 May 2014,ODI # 3491
+17,21,21,21,1,1,100.00,6,bowled,2,,v Sri Lanka,Colombo (RPS),26 Nov 2014,ODI # 3554
+18,7,19,14,0,0,50.00,7,bowled,1,,v Sri Lanka,Colombo (RPS),29 Nov 2014,ODI # 3557
+19,55*,46,37,9,0,148.64,7,not out,2,,v Sri Lanka,Hambantota,3 Dec 2014,ODI # 3561
+20,15,21,22,0,1,68.18,7,caught,1,,v Sri Lanka,Colombo (RPS),7 Dec 2014,ODI # 3563
+21,2*,1,1,0,0,200.00,7,not out,2,,v Sri Lanka,Pallekele,10 Dec 2014,ODI # 3565
+22,22,31,26,2,0,84.61,7,run out,2,,v Sri Lanka,Pallekele,13 Dec 2014,ODI # 3567
+23,23,30,23,2,0,100.00,7,caught,2,,v Sri Lanka,Colombo (RPS),16 Dec 2014,ODI # 3569
+24,28,68,60,0,0,46.66,7,caught,1,,v Australia,Sydney,16 Jan 2015,ODI # 3578
+25,DNB,-,-,-,-,-,-,-,2,,v India,Brisbane,20 Jan 2015,ODI # 3586
+26,25,38,24,2,0,104.16,6,run out,1,,v Australia,Hobart,23 Jan 2015,ODI # 3589
+27,67,98,78,7,0,85.89,7,caught,2,,v India,Perth,30 Jan 2015,ODI # 3595
+28,17,20,22,3,0,77.27,7,caught,2,,v Australia,Perth,1 Feb 2015,ODI # 3597
+29,10,11,12,1,0,83.33,7,caught,2,,v Australia,Melbourne,14 Feb 2015,ODI # 3600
+30,3,8,7,0,0,42.85,7,caught,1,,v New Zealand,Wellington,20 Feb 2015,ODI # 3607
+31,24,19,14,4,0,171.42,7,caught,1,,v Scotland,Christchurch,23 Feb 2015,ODI # 3611
+32,39*,28,19,6,1,205.26,7,not out,1,,v Sri Lanka,Wellington,1 Mar 2015,ODI # 3619
+33,65,75,52,6,1,125.00,7,caught,2,,v Bangladesh,Adelaide,9 Mar 2015,ODI # 3630
+34,DNB,-,-,-,-,-,-,-,2,,v Afghanistan,Sydney,13 Mar 2015,ODI # 3635
+35,1,4,2,0,0,50.00,6,run out,1,,v Pakistan,Abu Dhabi,11 Nov 2015,ODI # 3707
+36,11,10,10,1,0,110.00,5,bowled,1,,v Pakistan,Abu Dhabi,13 Nov 2015,ODI # 3708
+37,49*,78,50,2,1,98.00,6,not out,2,,v Pakistan,Sharjah,17 Nov 2015,ODI # 3710
+38,116*,68,52,10,8,223.07,4,not out,1,,v Pakistan,Dubai (DSC),20 Nov 2015,ODI # 3712
+39,105,109,76,11,5,138.15,4,caught,1,,v South Africa,Bloemfontein,3 Feb 2016,ODI # 3732
+40,48*,42,28,4,3,171.42,6,not out,2,,v South Africa,Gqeberha,6 Feb 2016,ODI # 3734
+41,0,3,1,0,0,0.00,4,caught,1,,v South Africa,Centurion,9 Feb 2016,ODI # 3736
+42,1,-,6,0,0,16.66,6,caught,1,,v South Africa,Johannesburg,12 Feb 2016,ODI # 3737
+43,0,3,1,0,0,0.00,6,bowled,1,,v South Africa,Cape Town,14 Feb 2016,ODI # 3738
+44,63,48,38,3,4,165.78,6,caught,1,,v Bangladesh,Mirpur,7 Oct 2016,ODI # 3791
+45,57,84,57,7,0,100.00,6,lbw,2,,v Bangladesh,Mirpur,9 Oct 2016,ODI # 3793
+46,25,34,26,3,0,96.15,6,bowled,2,,v Bangladesh,Chattogram,12 Oct 2016,ODI # 3794
+47,31,40,36,1,2,86.11,5,caught,1,,v India,Pune,15 Jan 2017,ODI # 3819
+48,10,16,9,1,0,111.11,6,stumped,2,,v India,Cuttack,19 Jan 2017,ODI # 3821
+49,11,19,15,1,0,73.33,5,caught,1,,v India,Eden Gardens,22 Jan 2017,ODI # 3824
+50,14,15,19,0,0,73.68,5,caught,1,,v West Indies,North Sound,3 Mar 2017,ODI # 3845
+51,0,7,7,0,0,0.00,6,caught,2,,v West Indies,North Sound,5 Mar 2017,ODI # 3848
+52,7,-,5,0,1,140.00,4,bowled,1,,v West Indies,Bridgetown,9 Mar 2017,ODI # 3849
+53,4,15,10,0,0,40.00,6,caught,2,,v Australia,Melbourne,14 Jan 2018,ODI # 3951
+54,42,-,32,5,0,131.25,6,caught,2,,v Australia,Brisbane,19 Jan 2018,ODI # 3958
+55,100*,-,83,6,4,120.48,6,not out,1,,v Australia,Sydney,21 Jan 2018,ODI # 3960
+56,0,-,2,0,0,0.00,6,caught,1,,v Australia,Adelaide,26 Jan 2018,ODI # 3966
+57,21,-,25,1,1,84.00,6,caught,1,,v Australia,Perth,28 Jan 2018,ODI # 3968
+58,79,92,65,5,5,121.53,6,run out,1,,v New Zealand,Hamilton,25 Feb 2018,ODI # 3980
+59,36*,30,20,2,3,180.00,6,not out,2,,v New Zealand,Mount Maunganui,28 Feb 2018,ODI # 3981
+60,29,31,23,3,1,126.08,6,caught,1,,v New Zealand,Wellington,3 Mar 2018,ODI # 3982
+61,0,4,2,0,0,0.00,4,caught,1,,v New Zealand,Dunedin,7 Mar 2018,ODI # 3989
+62,DNB,-,-,-,-,-,-,-,2,,v New Zealand,Christchurch,10 Mar 2018,ODI # 3992
+63,DNB,-,-,-,-,-,-,-,1,,v Sri Lanka,Dambulla,10 Oct 2018,ODI # 4052
+64,28,42,25,2,0,112.00,6,bowled,1,,v Sri Lanka,Dambulla,13 Oct 2018,ODI # 4053
+65,DNB,-,-,-,-,-,-,-,2,,v Sri Lanka,Pallekele,17 Oct 2018,ODI # 4054
+66,DNB,-,-,-,-,-,-,-,2,,v Sri Lanka,Pallekele,20 Oct 2018,ODI # 4055
+67,0,-,2,0,0,0.00,4,caught,2,,v Sri Lanka,Colombo (RPS),23 Oct 2018,ODI # 4058
+68,4*,1,1,1,0,400.00,6,not out,2,,v West Indies,Bridgetown,20 Feb 2019,ODI # 4096
+69,34,59,33,2,2,103.03,6,caught,2,,v West Indies,Bridgetown,22 Feb 2019,ODI # 4097
+70,TDNB,-,-,-,-,-,-,-,-,,v West Indies,St George's,25 Feb 2019,ODI # 4098
+71,150,-,77,13,12,194.80,5,bowled,1,,v West Indies,St George's,27 Feb 2019,ODI # 4099
+72,23,-,36,1,0,63.88,6,caught,1,,v West Indies,Gros Islet,2 Mar 2019,ODI # 4103
+73,2,14,4,0,0,50.00,5,lbw,2,,v India,Pune,23 Mar 2021,ODI # 4281
+74,0,5,3,0,0,0.00,5,bowled,2,,v India,Pune,26 Mar 2021,ODI # 4283
+75,15,28,18,2,0,83.33,5,lbw,2,,v India,Pune,28 Mar 2021,ODI # 4284
+76,162*,107,70,7,14,231.42,4,not out,1,,v Netherlands,Amstelveen,17 Jun 2022,ODI # 4413
+77,DNB,-,-,-,-,-,-,-,2,,v Netherlands,Amstelveen,19 Jun 2022,ODI # 4414
+78,86*,84,64,7,5,134.37,4,not out,2,,v Netherlands,Amstelveen,22 Jun 2022,ODI # 4417
+79,29,47,34,2,0,85.29,6,caught,1,,v Australia,Adelaide,17 Nov 2022,ODI # 4475
+80,1,4,4,0,0,25.00,6,caught,2,,v Australia,Melbourne,22 Nov 2022,ODI # 4480
+81,36,78,42,4,0,85.71,5,caught,2,,v South Africa,Bloemfontein,27 Jan 2023,ODI # 4512
+82,94*,154,81,8,3,116.04,5,not out,1,,v South Africa,Bloemfontein,29 Jan 2023,ODI # 4513
+83,131,190,127,6,7,103.14,5,caught,1,,v South Africa,Kimberley,1 Feb 2023,ODI # 4514
+84,9,14,10,1,0,90.00,5,caught,2,,v Bangladesh,Mirpur,1 Mar 2023,ODI # 4525
+85,76,103,64,5,2,118.75,5,caught,1,,v Bangladesh,Mirpur,3 Mar 2023,ODI # 4528
+86,26,51,24,0,0,108.33,6,lbw,2,,v Bangladesh,Chattogram,6 Mar 2023,ODI # 4531
+87,43,48,42,2,2,102.38,6,caught,1,,v New Zealand,Ahmedabad,5 Oct 2023,ODI # 4658
+88,20,11,10,1,1,200.00,4,bowled,1,,v Bangladesh,Dharamsala,10 Oct 2023,ODI # 4664
